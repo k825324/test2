@@ -23,6 +23,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("ttttt");
     }
     void testgithubPush() {
-        Log.d("test","測試用push上傳程式");
+        Log.d("test","測試github上傳程式");
     }
 }
