@@ -18,4 +18,7 @@ public class MainActivity extends AppCompatActivity {
     void testMaster() {
         Log.d("test","測試 master 功能");
     }
+    void testbranch(){
+        System.out.println("ttttt");
+    }
 }
