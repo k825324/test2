@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String s = "for test222222";
         int t = 77777;
+        String s2 = "for test3333";
     }
     void testMaster() {
         Log.d("test","測試 master 功能");
