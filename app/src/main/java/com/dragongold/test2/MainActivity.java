@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         String s = "for test222222";
-        int t = 777;
+        int t = 77777;
     }
 }
