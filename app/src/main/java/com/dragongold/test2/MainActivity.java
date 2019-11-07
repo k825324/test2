@@ -14,4 +14,7 @@ public class MainActivity extends AppCompatActivity {
         String s = "for test222222";
         int t = 77777;
     }
+    void testbranch(){
+        System.out.println("ttttt");
+    }
 }
